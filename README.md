@@ -6,7 +6,8 @@ This project uses an `sklearn` model that has been pre-trained to predict housin
 
 ### Project Tasks
 
-The goal of this project is to operationalize the machine learning microservice using [kubernetes](https://kubernetes.io/). During this project, we have completed the following:
+The goal of this project is to operationalize the machine learning microservice using [kubernetes](https://kubernetes.io/). 
+During this project, we have completed the following:
 * Test the project code using linting
 * Complete a Dockerfile to containerize this application
 * Deploy the containerized application using Docker and make a prediction
