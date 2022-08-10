@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+[![eliscela](https://circleci.com/gh/eliscela/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/eliscela/Operationalize-a-Machine-Learning-Microservice-API)
 
 ## Project Overview
 
